@@ -1,6 +1,12 @@
 🚀 InterviewIQ – AI Powered Mock Interview Platform
 📌 Overview
-InterviewIQ is an AI-powered mock interview platform that helps users prepare for HR and Technical interviews through real-time AI interaction. Users can select their preferred role and interview type, receive instant AI-generated feedback reports, download interview reports as PDFs, track interview history, and purchase credits for interview sessions.
+InterviewIQ is an AI-powered mock interview platform that helps users prepare for HR and Technical interviews through real-time AI interaction. Users can select their preferred role and 
+interview type, receive instant AI-generated feedback reports, download interview reports as PDFs, track interview history, and purchase credits for interview sessions.
+
+ScreenShot:
+<img width="1915" height="907" alt="Screenshot 2026-05-20 221108" src="https://github.com/user-attachments/assets/5a414f39-680a-4151-8a31-25f42d003477" />
+
+
 ✨ Features
 🤖 AI-based HR & Technical Interviews
 🎯 Role-specific interview questions
