@@ -1,0 +1,114 @@
+🚀 InterviewIQ – AI Powered Mock Interview Platform
+📌 Overview
+InterviewIQ is an AI-powered mock interview platform that helps users prepare for HR and Technical interviews through real-time AI interaction. Users can select their preferred role and interview type, receive instant AI-generated feedback reports, download interview reports as PDFs, track interview history, and purchase credits for interview sessions.
+✨ Features
+🤖 AI-based HR & Technical Interviews
+🎯 Role-specific interview questions
+📊 AI-generated performance reports
+📄 Download interview reports as PDF
+🕒 Interview history tracking
+💳 Credit-based interview system
+🔐 User authentication & secure access
+📱 Responsive modern UI
+⚡ Fast and interactive user experience
+🏗️ System Architecture
+Plain text
++------------------+
+                    |      User        |
+                    +--------+---------+
+                             |
+                             v
+                  +--------------------+
+                  |   Frontend (React) |
+                  +--------------------+
+                             |
+              --------------------------------
+              |                              |
+              v                              v
+   +-------------------+        +-------------------+
+   | Authentication    |        | AI Interview API  |
+   | Firebase/Supabase |        | (OpenAI/Gemini)   |
+   +-------------------+        +-------------------+
+              |                              |
+              --------------------------------
+                             |
+                             v
+                  +--------------------+
+                  | Backend (Node.js)  |
+                  +--------------------+
+                             |
+                             v
+                  +--------------------+
+                  | Database            |
+                  | MongoDB / SQL       |
+                  +--------------------+
+                             |
+                             v
+                  +--------------------+
+                  | PDF Report Storage |
+                  +--------------------+
+🛠️ Tech Stack
+Frontend
+React.js
+Tailwind CSS
+JavaScript
+Backend
+Node.js
+Express.js
+Database
+MongoDB / SQL
+Authentication
+Firebase 
+AI Integration
+
+⚙️ How It Works
+User signs up/login.
+User selects:
+Role
+Interview Type (HR/Technical)
+AI starts the interview session.
+User answers interview questions.
+AI evaluates performance.
+Detailed report is generated.
+User can:
+Download report PDF
+View interview history
+Credits are deducted per interview.
+Users can purchase additional credits.
+📂 Project Structure
+Bash
+InterviewIQ/
+│
+├── client/             # Frontend React App
+├── server/             # Backend APIs
+├── components/         # Reusable UI Components
+├── pages/              # Application Pages
+├── database/           # DB Models & Config
+├── utils/              # Utility Functions
+├── public/             # Static Assets
+└── README.md
+
+🌟 Future Enhancements
+📹 Video interview analysis
+🧠 AI emotion & confidence detection
+🌍 Multi-language interview support
+📈 Advanced analytics dashboard
+🏆 Leaderboard & performance ranking
+📅 Interview scheduling system
+🧾 Resume analysis & ATS scoring
+👨‍💼 Company-specific interview preparation
+📱 Mobile application support
+🔔 Email notifications & reminders
+🤝 Peer-to-peer mock interviews
+🔒 Security Features
+Secure Authentication
+Protected Routes
+Encrypted API Keys
+Credit Transaction Validation
+Session Management
+🤝 Contribution
+Contributions are welcome!
+
+👨‍💻 Author
+Developed by Vinya Jain
+⭐ If you like this project, give it a star on GitHub!
