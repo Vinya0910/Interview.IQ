@@ -5,6 +5,8 @@ interview type, receive instant AI-generated feedback reports, download intervie
 
 ScreenShot:
 <img width="1915" height="907" alt="Screenshot 2026-05-20 221108" src="https://github.com/user-attachments/assets/5a414f39-680a-4151-8a31-25f42d003477" />
+<img width="1913" height="900" alt="Screenshot 2026-05-20 221129" src="https://github.com/user-attachments/assets/827cad1a-1d5e-4241-bbdf-3fa8a9b6e45e" />
+
 
 
 ✨ Features
