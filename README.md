@@ -70,11 +70,13 @@ AI starts the interview session.
 User answers interview questions.
 AI evaluates performance.
 Detailed report is generated.
+
 User can:
 Download report PDF
 View interview history
 Credits are deducted per interview.
 Users can purchase additional credits.
+
 📂 Project Structure
 Bash
 InterviewIQ/
