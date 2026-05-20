@@ -9,10 +9,6 @@ ScreenShot:
 <img width="1907" height="903" alt="Screenshot 2026-05-20 221204" src="https://github.com/user-attachments/assets/2db5d915-2f33-4965-8e94-64e78d431d93" />
 <img width="1907" height="900" alt="Screenshot 2026-05-20 221148" src="https://github.com/user-attachments/assets/75daca6f-0b77-4bb5-aa5e-6e670c507691" />
 
-
-
-
-
 ✨ Features
 🤖 AI-based HR & Technical Interviews
 🎯 Role-specific interview questions
