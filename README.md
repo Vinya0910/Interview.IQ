@@ -27,7 +27,7 @@ Plain text
               v                              v
    +-------------------+        +-------------------+
    | Authentication    |        | AI Interview API  |
-   | Firebase/Supabase |        | (OpenAI/Gemini)   |
+   | Firebase|        |           (OPENROUTER_API_KEY)   |
    +-------------------+        +-------------------+
               |                              |
               --------------------------------
@@ -40,7 +40,7 @@ Plain text
                              v
                   +--------------------+
                   | Database            |
-                  | MongoDB / SQL       |
+                  | MongoDB       |
                   +--------------------+
                              |
                              v
@@ -107,6 +107,10 @@ Encrypted API Keys
 Credit Transaction Validation
 Session Management
 🤝 Contribution
+
+
+
+
 Contributions are welcome!
 
 👨‍💻 Author
