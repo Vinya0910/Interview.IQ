@@ -105,12 +105,8 @@ InterviewIQ/
 🔔 Email notifications & reminders
 🤝 Peer-to-peer mock interviews
 🔒 Security Features
-Secure Authentication
-Protected Routes
-Encrypted API Keys
-Credit Transaction Validation
-Session Management
-🤝 Contribution
+
+
 
 
 
