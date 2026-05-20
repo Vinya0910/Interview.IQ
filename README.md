@@ -11,6 +11,8 @@ InterviewIQ is an AI-powered mock interview platform that helps users prepare fo
 🔐 User authentication & secure access
 📱 Responsive modern UI
 ⚡ Fast and interactive user experience
+
+
 🏗️ System Architecture
 Plain text
 +------------------+
@@ -56,7 +58,7 @@ Backend
 Node.js
 Express.js
 Database
-MongoDB / SQL
+MongoDB
 Authentication
 Firebase 
 AI Integration
