@@ -13,10 +13,11 @@ export const googleAuth = async (req,res) => {
             })
         }
         let token = await genToken(user._id)
+        const isProduction = process.env.NODE_ENV === "production";
         res.cookie("token" , token , {
-            http:true,
-            secure:false,
-            sameSite:"none",
+            httpOnly:true,
+            secure:isproduction,
+            sameSite:isProduction? "none" : "lax",
             maxAge:7 * 24 * 60 * 60 * 1000
         })
 
